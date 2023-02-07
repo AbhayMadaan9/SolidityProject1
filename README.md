@@ -5,7 +5,7 @@ The basic algorithm of the application allows users to participate in a lottery 
 
 Take a look at the code and see for yourself the power of Solidity in building decentralized applications. Feedback and suggestions for improvements are always welcome
 
-# Algo of project
+# Rules of Application
 1.participant must have wallet.
 2.A participant can transfer ether more than one time but the transferred ether must be 2ether.
 3.As the participant will transfer ether its address will be registered. 
